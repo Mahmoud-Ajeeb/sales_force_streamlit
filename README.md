@@ -107,7 +107,7 @@ This file marks entries as “Converted” by matching leads based on:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-org/salesforce-csv-analysis.git
+   git clone https://github.com/mahmoud-ajeeb/salesforce-csv-analysis.git
    cd salesforce-csv-analysis
    ```
 
