@@ -1,6 +1,3 @@
-Here's a clear and professional `README.md` you can include in your GitHub repository to document the Salesforce CSV Analysis Streamlit app:
-
----
 
 # 📊 Salesforce CSV Analysis Dashboard
 
